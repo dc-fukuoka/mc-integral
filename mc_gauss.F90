@@ -1,5 +1,5 @@
 ! integral gaussian function exp(-x^2)
-! exact solution is pi/2
+! exact solution is pi^(1/2)
 
 module mc_module
   use omp_lib
