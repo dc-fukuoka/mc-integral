@@ -1,5 +1,5 @@
 mc-integral - Monte Carlo integration test.  
-intel MKL is requited.
+intel MKL is required.
 ------
 
 <img src="https://latex.codecogs.com/gif.latex?\int_{a}^{b}dxp(x)f(x)&space;\approx&space;\frac{\left&space;(&space;b&space;-&space;a&space;\right&space;)}{N}\sum_{n=1}^{N}f(x_n)">
